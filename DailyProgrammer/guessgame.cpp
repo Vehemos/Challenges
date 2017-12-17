@@ -1,4 +1,4 @@
-# Challenge: https://www.reddit.com/r/dailyprogrammer/comments/pii6j/difficult_challenge_1/
+//Challenge: https://www.reddit.com/r/dailyprogrammer/comments/pii6j/difficult_challenge_1/
 
 #include <iostream>
 
