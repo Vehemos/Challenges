@@ -19,4 +19,5 @@ int main()
 			steps++;
 		}
 	cout<<"I guessed your number in "<<steps<<" steps!";
+	return 0;
 }
